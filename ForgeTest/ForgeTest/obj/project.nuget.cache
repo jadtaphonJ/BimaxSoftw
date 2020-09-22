@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vFslu8vg10KYzBK9hNbUWmSN6lZemBSSUE6qNVr2SsfjlPaY/YSpG8cxpTSbfOE0PO2Vmjtf55OZzG5o2tMcPQ==",
+  "success": true,
+  "projectFilePath": "D:\\BimaxSoftware\\BimaxSoftware\\ForgeTest\\ForgeTest\\ForgeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Odies\\.nuget\\packages\\autodesk.forge\\1.7.0\\autodesk.forge.1.7.0.nupkg.sha512",
+    "C:\\Users\\Odies\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.6\\microsoft.aspnetcore.jsonpatch.3.1.6.nupkg.sha512",
+    "C:\\Users\\Odies\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.6\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.6.nupkg.sha512",
+    "C:\\Users\\Odies\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Odies\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Odies\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Odies\\.nuget\\packages\\restsharp\\106.3.1\\restsharp.106.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
